@@ -1,0 +1,15 @@
+D:\Заочка\2 курс\1 семестр\риатппс\Lab2_Client\Lab2_Client\obj\Debug\netcoreapp3.1\Lab2_Client.csproj.AssemblyReference.cache
+D:\Заочка\2 курс\1 семестр\риатппс\Lab2_Client\Lab2_Client\obj\Debug\netcoreapp3.1\Lab2_Client.AssemblyInfoInputs.cache
+D:\Заочка\2 курс\1 семестр\риатппс\Lab2_Client\Lab2_Client\obj\Debug\netcoreapp3.1\Lab2_Client.AssemblyInfo.cs
+D:\Заочка\2 курс\1 семестр\риатппс\Lab2_Client\Lab2_Client\obj\Debug\netcoreapp3.1\Lab2_Client.csproj.CoreCompileInputs.cache
+D:\Заочка\2 курс\1 семестр\риатппс\Lab2_Client\Lab2_Client\bin\Debug\netcoreapp3.1\Lab2_Client.exe
+D:\Заочка\2 курс\1 семестр\риатппс\Lab2_Client\Lab2_Client\bin\Debug\netcoreapp3.1\Lab2_Client.deps.json
+D:\Заочка\2 курс\1 семестр\риатппс\Lab2_Client\Lab2_Client\bin\Debug\netcoreapp3.1\Lab2_Client.runtimeconfig.json
+D:\Заочка\2 курс\1 семестр\риатппс\Lab2_Client\Lab2_Client\bin\Debug\netcoreapp3.1\Lab2_Client.runtimeconfig.dev.json
+D:\Заочка\2 курс\1 семестр\риатппс\Lab2_Client\Lab2_Client\bin\Debug\netcoreapp3.1\Lab2_Client.dll
+D:\Заочка\2 курс\1 семестр\риатппс\Lab2_Client\Lab2_Client\bin\Debug\netcoreapp3.1\Lab2_Client.pdb
+D:\Заочка\2 курс\1 семестр\риатппс\Lab2_Client\Lab2_Client\bin\Debug\netcoreapp3.1\Utility.dll
+D:\Заочка\2 курс\1 семестр\риатппс\Lab2_Client\Lab2_Client\obj\Debug\netcoreapp3.1\Lab2_Client.csproj.CopyComplete
+D:\Заочка\2 курс\1 семестр\риатппс\Lab2_Client\Lab2_Client\obj\Debug\netcoreapp3.1\Lab2_Client.dll
+D:\Заочка\2 курс\1 семестр\риатппс\Lab2_Client\Lab2_Client\obj\Debug\netcoreapp3.1\Lab2_Client.pdb
+D:\Заочка\2 курс\1 семестр\риатппс\Lab2_Client\Lab2_Client\obj\Debug\netcoreapp3.1\Lab2_Client.genruntimeconfig.cache
